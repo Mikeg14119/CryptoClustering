@@ -31,7 +31,9 @@ Follow these steps to get the project up and running on your local machine:
 Clone the repository:
 
 git clone https://github.com/Mikeg14119/CryptoClustering.git
+
 cd <repository_folder>
+
 Install the required libraries, if not already installed, using the command provided above.
 
 
