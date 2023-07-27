@@ -6,7 +6,7 @@ Introduction
 This repository contains a Python project focused on cryptocurrency clustering using unsupervised learning techniques. The main goal is to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. This ReadMe provides an overview of the project, including installation instructions, data preprocessing, model building, and visualizations.
 
 
-Prerequisites
+# Prerequisites
 
 
 To run this project, you'll need the following installed on your machine:
